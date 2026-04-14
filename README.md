@@ -1,6 +1,5 @@
 # ChatBot
-📘 ChatBot
-📌 Overview
+ChatBot
 
 My ChatBot is a C# console-based chatbot developed using the .NET Framework. The application is designed to simulate an interactive assistant that helps users learn about cybersecurity awareness in a simple and engaging way.
 
@@ -12,13 +11,14 @@ User input and interaction
 Cybersecurity-related responses
 Console UI enhancements (colours and typing effect)
 Structured, object-oriented code design
-🛠️ Technologies Used
+
+What Technologies I Used
 C#
 .NET Framework (Console Application)
 System.Media (for audio playback)
 Visual Studio
-📁 Project Structure
-│
+How i structured it:
+
 ├── Program.cs        # Entry point of the application
 ├── Chatbot.cs        # Chat logic and responses
 ├── User.cs           # Handles user input and name storage
