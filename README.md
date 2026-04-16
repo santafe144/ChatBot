@@ -32,7 +32,7 @@ The application begins in Program.cs, where:
 The voice greeting is played
 The ASCII logo is displayed
 The user is prompted to enter their name
-🔊 2. Voice Greeting
+2. Voice Greeting
 
 The AudioPlayer class:
 
@@ -59,7 +59,7 @@ Example:
 
 Enter your name: Nelisa
 Hello, Nelisa!
-💬 5. Chatbot Conversation
+5. Chatbot Conversation
 
 The Chatbot class:
 
@@ -100,7 +100,7 @@ The chatbot improves user experience through:
 Coloured text (for user and bot messages)
 Typing animation effect
 Structured formatting
-🔁 9. Exit Condition
+9. Exit Condition
 
 The chatbot runs continuously until the user types:
 
@@ -108,27 +108,26 @@ exit
 
 Then it safely terminates:
 
-Bot: Goodbye! Stay safe online 🔐
-▶️ How to Run the Project
-Open the solution in Visual Studio
-Build the project
+Bot: Goodbye! Stay safe online
+
 
 Ensure Greeting.wav is located in:
 
 bin/Debug/
-Run the program (Ctrl + F5)
-✅ Features Summary
+Features Summary
 
-✔ Voice greeting
-✔ ASCII art logo
-✔ User name personalisation
-✔ Interactive chatbot
-✔ Cybersecurity awareness responses
-✔ Input validation
-✔ Clean object-oriented structure
+Voice greeting
+ASCII art logo
+User name personalisation
+Interactive chatbot
+Cybersecurity awareness responses
+Input validation
+Clean object-oriented structure
 
 what i could've done better:
 Add more cybersecurity topics
 Implement menu-based navigation
 Integrate AI/NLP for smarter responses
 Improve UI with richer console design
+
+https://youtu.be/Php1btgwl8M
